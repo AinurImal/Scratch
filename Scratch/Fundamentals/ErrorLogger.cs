@@ -20,5 +20,7 @@ namespace Scratch.Fundamentals
 
             ErrorLogged?.Invoke(this, Guid.NewGuid());
         }
+
+        
     }
 }
